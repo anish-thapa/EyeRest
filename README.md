@@ -1,4 +1,4 @@
-# EyeRestApp
+# EyeRest
 A simple, lightweight Windows desktop app that helps reduce eye strain by reminding you to take regular breaks with a fullscreen overlay.
 ![image](https://github.com/user-attachments/assets/b0d69b49-ac0d-4d41-ae3d-2f3153ecce95)
 ![image](https://github.com/user-attachments/assets/c94adc9d-14c4-4719-9b7d-5ae8257425e8)
@@ -15,7 +15,7 @@ A simple, lightweight Windows desktop app that helps reduce eye strain by remind
 
 ## How to Use (For Users)
 
-1.  Go to the [**Releases Page**](https://github.com/anish-thapa/EyeRestApp-CSharp/releases). 
+1.  Go to the [**Releases Page**](https://github.com/anish-thapa/EyeRest/releases). 
 2.  Download the `EyeRestApp.exe` file from the latest release.
 3.  Run the `.exe` file. The app will start in your system tray.
 
