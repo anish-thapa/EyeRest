@@ -2,7 +2,7 @@
 
 A lightweight and elegant Windows desktop app that helps reduce eye strain by reminding you to take regular breaks with a beautiful, fullscreen overlay.
 
-![EyeRestApp Screenshot]![image](https://github.com/user-attachments/assets/9c4dbe45-8524-4cc6-b09e-107706126261)
+![EyeRestApp's Reminder Screenshot](https://github.com/user-attachments/assets/9c4dbe45-8524-4cc6-b09e-107706126261)
 
 
 ## ✨ Features
