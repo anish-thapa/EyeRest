@@ -1,6 +1,7 @@
 # EyeRest
 A simple, lightweight Windows desktop app that helps reduce eye strain by reminding you to take regular breaks with a fullscreen overlay.
-![image](https://github.com/user-attachments/assets/5aa83b63-b3d6-4d40-9c6d-3afe96cb3614)
+![image](https://github.com/user-attachments/assets/8ab023eb-96f4-4a4f-974b-0824cdb90f40)
+
 
 
 ## Features
