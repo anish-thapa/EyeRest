@@ -20,6 +20,7 @@ A lightweight and elegant Windows desktop app that helps reduce eye strain by re
 1.  Go to the [**Releases Page**](https://github.com/anish-thapa/EyeRest/releases). <!-- IMPORTANT: Replace "YourUsername" with your actual GitHub username! -->
 2.  Download the `EyeRestApp.exe` file from the latest release.
 3.  Run the `.exe` file. The app will start hidden in your system tray. Enjoy healthier work habits!
+4.  Right-click the icon, open **Settings**, and tick the **"Start with Windows"** checkbox for truly effortless, healthy reminders!
 
 ## 🛠️ How to Build (For Developers)
 
